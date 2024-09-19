@@ -1,11 +1,8 @@
 # Hi, I'm Simone! 👋
 
-I am an economics graduate. 
-
-![ponzinz's Stats](https://github-readme-stats.vercel.app/api?username=ponzinz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
+- 👨‍🎓 I am an economics graduate. 
 - 🎓 I'm currently pursuing my Master in Economics.
 
 ## Tech Stack
@@ -14,8 +11,10 @@ I am an economics graduate.
 
 ## 📬 Get in Touch
 
-- ✉ How to reach me: [Gmail](simonegalaxynexus@gmail.com)
+- ✉ How to reach me: simonegalaxynexus@gmail.com
 - 📱 Connect with me on [Twitter](https://x.com/SimoNexus) & [Linkedin](https://www.linkedin.com/in/simone-lupone-a194b5133/)
 - 👤 My Laracasts profile [Laracasts](https://laracasts.com/@ponzinz)
+
+![ponzinz's Stats](https://github-readme-stats.vercel.app/api?username=ponzinz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Thanks for stopping by! 🚀
