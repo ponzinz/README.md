@@ -6,7 +6,7 @@
 - 🎓 I'm currently pursuing my Master in Economics.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,vue,vite,mysql,php,laravel,tailwind,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,vue,vite,mysql,php,laravel,tailwind,typescript)](https://skillicons.dev)
 
 
 ## 📬 Get in Touch
